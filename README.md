@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Cibele. I'm QA!
+
+This is my world of studies and practices.
+
+Welcome!
+
 <!--
 **crmallmann/crmallmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
