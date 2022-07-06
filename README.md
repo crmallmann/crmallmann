@@ -47,4 +47,6 @@ Emojis -> https://gist.github.com/rxaviers/7360908
 
 Tutorial -> https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
 
+README de projeto -> https://www.alura.com.br/artigos/escrever-bom-readme
+
 -->
